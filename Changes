@@ -1,0 +1,12 @@
+Revision history for MooseX-Storage-Format-XML-Simple
+
+0.01    2008-08-21
+        First version, released on an unsuspecting world.
+
+0.02	2008-08-22
+		 - Changed name to MooseX-Storage-Format-XML-Simple (suggested by 
+		Stevan Little)
+		 - Corrected example code, which was using YAML (reported by Stevan
+		Little)
+		 - Added more prerequisites (XML::Simple, Moose::Role)
+		 - Added 
