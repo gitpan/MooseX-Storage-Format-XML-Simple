@@ -15,11 +15,11 @@ MooseX::Storage::Format::XML::Simple - An XML::Simple serialization role
 
 =head1 VERSION
 
-Version 0.02
+Version 0.03
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 our $AUTHORITY = 'cpan:STEVAN';
 
 =head1 SYNOPSIS
@@ -50,7 +50,7 @@ our $AUTHORITY = 'cpan:STEVAN';
 	#   <y>10</y>
 	# </opt>  
 
-	# unpack the JSON string into a class
+	# unpack the XML string into a class
 	my $p2 = Point->thaw(<<XML);  
     <opt>
       <__CLASS__>Point</__CLASS__>

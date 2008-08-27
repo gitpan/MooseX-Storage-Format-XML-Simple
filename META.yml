@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                MooseX-Storage-Format-XML-Simple
-version:             0.02
+version:             0.03
 abstract:            An XML::Simple serialization role
 license:             ~
 author:              
