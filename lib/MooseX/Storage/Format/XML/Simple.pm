@@ -15,11 +15,11 @@ MooseX::Storage::Format::XML::Simple - An XML::Simple serialization role
 
 =head1 VERSION
 
-Version 0.03
+Version 0.04
 
 =cut
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 our $AUTHORITY = 'cpan:STEVAN';
 
 =head1 SYNOPSIS
@@ -104,6 +104,8 @@ to cpan-RT.
 =head1 AUTHOR
 
 Bruno Czekay E<lt>brunorc@cpan.orgE<gt>
+
+Based on the code by Yuval Kogman.
 
 =head1 COPYRIGHT AND LICENSE
 
